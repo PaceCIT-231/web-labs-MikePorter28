@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Sounds</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <h1>Sounds</h1>
+        <p><a href="home">Home</a></p>
+        <p><a href="bio">Bio</a></p>
+        <p><a href="sounds">Sounds</a></p>
+        <p><a href="td">Tour Dates</a></p>
+        <p><a href="contact">Contact</a></p>
+    </body>
+    
+</html>
