@@ -1,7 +1,8 @@
 body {background-color: black;}
 body {
     font-family: Arial;
-    margin: 0;
+    width: 80%;
+    margin: 150px;
 }
 
 header, footer {
@@ -15,20 +16,25 @@ h1 {
     font-size: 30px;
 }
 
-nav {
+nav ul {
     text-align: center;
     font-weight: bold;
 }
 
 nav a {
-    margin-right: 30px;
+    margin-right: 100px;
+    text-align: center;
 }
 
 em {
     font-weight: 700;
-    font-style: oblique;
 }
 
-li {
+nav li {
     list-style-type: circle;
 } 
+
+nav a:hover {
+    background-color: white;
+}
+
