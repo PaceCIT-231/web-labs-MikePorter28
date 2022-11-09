@@ -94,4 +94,20 @@ nav a:hover {
         bottom: 0;
         left: 10%
     }
+
+    #table1 {
+        border-collapse: collapse;
+        text-transform: uppercase;
+      }
+    }
+
+input[type=checkbox], input[type=radio], input[type=file]{
+    width:auto;
+}
+
+label, input, select {
+    display: inline-block;
+    width: 150px;
+    text-align: left;
+    margin: 2px;
 }
